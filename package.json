@@ -1,0 +1,23 @@
+{
+  "name": "typescript-notes",
+  "version": "1.0.0",
+  "description": "- Superset of Javascript\r - Offers additional features to JS including static types\r - Using types is optional\r - Compiles down to vanilla JS\r - Can be used in frontend and backend node.js\r - Types from 3rd party libraries can be added with type definitions\r - Typescript COmpiler (TSC) is used to compile .ts files to .js\r - tsconfig.json file is used to configure how Typescript works",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sairamponugoti/typescript-notes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sairamponugoti/typescript-notes/issues"
+  },
+  "homepage": "https://github.com/sairamponugoti/typescript-notes#readme",
+  "dependencies": {
+    "typescript": "^5.2.2"
+  }
+}
